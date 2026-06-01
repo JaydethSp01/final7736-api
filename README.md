@@ -1,2 +1,3 @@
-# final7736-api
-ScrumDev AI backend (final7736-api)
+# Final7736 Backend
+
+This is the backend for the Final7736 project, built with FastAPI and PostgreSQL.
